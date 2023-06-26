@@ -1,5 +1,5 @@
-// SPDX-License-Identifier: GPL-3.0-only
-// Copyright 2023 Marek Kraus <gamelaster@outlook.com>
+# SPDX-License-Identifier: GPL-3.0-only
+# Copyright 2023 Marek Kraus <gamelaster@outlook.com>
 
 from gi.repository import GLib, Gio
 
